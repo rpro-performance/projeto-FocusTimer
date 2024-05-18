@@ -1,5 +1,5 @@
 
-# Título do Projeto
+# Projeto Focus Timer
 
 Uma breve descrição sobre o que esse projeto faz 
 Ele é um cronometro que possui light mode e dark mode,
